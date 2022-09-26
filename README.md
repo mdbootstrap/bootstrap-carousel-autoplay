@@ -144,5 +144,6 @@ ___
 <li><a href="https://mdbootstrap.com/docs/standard/extended/dropdown-language-selector/">Bootstrap Dropdown language selector</a></li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/select-dropdown-with-search/">Bootstrap Select dropdown with search</a></li>
 <li><a href="https://mdbootstrap.com/docs/standard/extended/icon-color/">Bootstrap Icon color</a></li>
+<li><a href="https://mdbootstrap.com/docs/standard/extended/fade-animation/">Bootstrap Fade animation</a></li>
 
 </ul>
