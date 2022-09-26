@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-carousel-autoplay",
+  "version": "1.0.0",
+  "description": "Responsive Carousel autoplay built with Bootstrap 5. Examples of how to turn on and turn off the carousel autoplay.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-carousel-autoplay.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "bootstrap5",
+    "bootstrap-theme",
+    "bootstrap-template",
+    "bootstrap-carousel-autoplay",
+    "responsive",
+    "responsive-design"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-carousel-autoplay/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/carousel-autoplay/"
+}
